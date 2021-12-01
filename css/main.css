@@ -874,6 +874,126 @@ nav a:hover {
 }
 
 
+/* CONTACTS */
+
+.cont-heading {
+    font-family: 'Montserrat-ExtraBold';
+    margin-top: 15px;
+}
+
+.cont-heading p {
+    font-family: 'Montserrat-Regular';
+}
+
+.contact-inf {
+    margin-top: 30px;
+}
+
+.contact-inf h6 {
+    font-family: 'Montserrat-ExtraBold';
+}
+
+.contact-inf p {
+    margin-bottom: 5px;
+    font-family: 'Montserrat-Regular';
+}
+
+.contact-inf a {
+    text-decoration: none;
+    color: black;
+    transition: color 0.2s linear;
+}
+
+.contact-inf a:hover {
+    color: #E30014;
+}
+
+.contact-inf .cell {
+    margin-bottom: 20px;
+}
+
+.contact-inf i {
+    color: #E30014
+}
+
+.feedback-form {
+    font-family: 'Montserrat-Regular';
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.feedback-form h6 {
+    font-family: 'Montserrat-ExtraBold';
+    color: black;
+    margin-bottom: 15px;
+}
+
+.feedback-form button {
+    background-color: #E30014;
+    border: black;
+}
+
+.feedback-form button:hover {
+    background-color: black;
+}
+
+
+
+/* ABOUT STORE */
+
+
+.about-store-content {
+    margin-top: 30px;
+}
+
+
+
+/* MANUFACTURERS */
+
+.manufacturers {
+    margin-bottom: 50px;
+}
+
+.manufacturers .brand-list {
+    margin-top: 50px;
+}
+
+.alphabetical-index {
+    margin-top: 15px;
+    display: inline;
+    margin-bottom: 50px;
+}
+
+.alphabetical-index h6 {
+    display: inline;
+}
+
+.alphabetical-index  ul {
+    display: inline;
+}
+
+.alphabetical-index  li {
+    list-style:  none;
+    display: inline;
+    margin-left: 10px;
+}
+
+.alphabetical-index  a {
+    text-decoration: none;
+    color: black;
+    transition: color 0.2s linear;
+}
+
+.alphabetical-index  a:hover {
+    color: #E30014;
+}
+
+.letter-block {
+    margin-bottom: 15px;
+}
+
+
+
 /* FOOTER */
 
 
@@ -912,8 +1032,6 @@ footer h6 {
 .footer-end {
     font-size: 14px;
     margin-top: 30px;
-    /* margin-bottom: 30px; */
-    /* text-align: center; */
 }
 
 .footer-end p {
